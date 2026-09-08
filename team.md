@@ -3,3 +3,4 @@
 
 # **Team Members**
 ## Adrian Villegas
+This is my third year at NAU with a major in Software Engineering. 
