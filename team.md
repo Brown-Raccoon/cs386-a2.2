@@ -4,3 +4,4 @@
 # **Team Members**
 ## Adrian Villegas
 This is my third year at Northern Arizona University with a major in Software Engineering. 
+Here in the terminal now...
